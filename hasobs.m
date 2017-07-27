@@ -1,8 +1,10 @@
 function [ tf ] = hasobs( data, str )
-%HASOBS Summary of this function goes here
+%HASOBS 
 %   returns an array usable for logical indexing indicating whether or not
 %   the elements of an array of "packed" data have a certain observation
 %   associated with them
+%   typical usage:
+%   secsMeta(hasobs(secsMeta,'example'))
 
 tf = false(max(size(data)),1);
 

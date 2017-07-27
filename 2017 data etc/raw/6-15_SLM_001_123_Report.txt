@@ -1,0 +1,24 @@
+XL2 Sound Level Meter Broadband Reporting:		TESTING17\6-15_SLM_001_123_Report.txt
+------------------------------------------
+
+
+# Hardware Configuration
+	Device Info:    	XL2, SNo. A2A-06200-E0, FW2.50
+	Mic Type:       	NTi Audio M4260, S/N: 3530, Factory adjusted 
+	Mic Sensitivity:	28.8 mV/Pa
+
+# Measurement Setup
+	Profile:        	Full mode
+	Append mode:    	OFF
+	Timer mode:     	continuous
+	Timer set:      	--:--:--
+	k1:             	0.0 dB
+	k2:             	0.0 dB
+	kset Date:      	k-Values not measured
+	Range:          	20 - 120 dB
+
+# Broadband Results
+	Start       	          	Stop        	          
+	Date        	Time      	Date        	Time      	LAeq    	LAFmax  
+	[YYYY-MM-DD]	[hh:mm:ss]	[YYYY-MM-DD]	[hh:mm:ss]	[dB]    	[dB]    
+	2017-06-17  	11:17:06  	2017-06-17  	16:19:07  	51.1    	93.2    
